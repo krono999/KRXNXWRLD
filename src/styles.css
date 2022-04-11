@@ -1,0 +1,88 @@
+.body {
+    font-family: sans-serif;
+    background-image: url('../src/assets/img/brokenGlass.jpg');
+  }
+  
+  .boxOne {
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
+    /* border-radius: 50%; */
+    font-size: 20px;
+    width: 550px;
+    height: 400px;
+    background-image: url('../src/assets/img/solvet.png');
+    background-size: cover;
+    margin-top: 100px;
+    margin-right: 50px;
+    
+  }
+  
+  .boxTwo {
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
+    /* border-radius: 50%; */
+    font-size: 20px;
+    width: 550px;
+    height: 400px;
+  
+    background-image: url('../src/assets/img/2.png');
+    background-size: cover;
+  }
+  
+  .boxThree {
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
+   /* border-radius: 50%; */
+    font-size: 20px;
+    /* color: #fff; */
+    width: 500px;
+    height: 400px;
+    background-image: url('../src/assets/img/5.png');
+    background-size: cover;
+  }
+  .boxFour {
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0);
+    /* border: 4px solid rgb(0, 0, 0); */
+    /* border-radius: 50%; */
+    font-size: 20px;
+    /* color: #fff; */
+    width: 100%;
+    height: 100%;
+    background-image: url('../src/assets/img/descarga2.png');
+    /* background-size: contain; */
+    object-fit: cover;
+  }
+  
+  .separator {
+    height: 5px;
+  }
+  
+  .banner {
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .banner.banner-1 {
+    background-image: url("../src/assets/img/1.png");
+  }
+  
+  .banner.banner-2 {
+    background-image: url("../src/assets/img/2.png");
+  }
+  
+  .banner.banner-3 {
+    background-image: url("../src/assets/img/3.png");
+  }
+  
+  .banner.banner-4 {
+    background-image: url("../src/assets/img/1.png");
+  }
+  
