@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KRXNXWRLD/static/css/main.67dc40b2.css",
+    "main.js": "/KRXNXWRLD/static/js/main.dbcaf179.js",
+    "static/media/1.png": "/KRXNXWRLD/static/media/1.ddeb8b3591a2b90a7bc7.png",
+    "static/media/solvet.png": "/KRXNXWRLD/static/media/solvet.9b6491c272ee2c9e66af.png",
+    "static/media/2.png": "/KRXNXWRLD/static/media/2.1c0ca5981981f97eddcc.png",
+    "static/media/descarga2.png": "/KRXNXWRLD/static/media/descarga2.3a97b53f992201046cc2.png",
+    "static/media/3.png": "/KRXNXWRLD/static/media/3.231fa0a726a92174379a.png",
+    "static/media/5.png": "/KRXNXWRLD/static/media/5.3020260c528b7dfc6774.png",
+    "static/media/brokenGlass.jpg": "/KRXNXWRLD/static/media/brokenGlass.4ebaaa9ad5ae3a0cb8b9.jpg",
+    "index.html": "/KRXNXWRLD/index.html",
+    "main.67dc40b2.css.map": "/KRXNXWRLD/static/css/main.67dc40b2.css.map",
+    "main.dbcaf179.js.map": "/KRXNXWRLD/static/js/main.dbcaf179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67dc40b2.css",
+    "static/js/main.dbcaf179.js"
+  ]
+}
